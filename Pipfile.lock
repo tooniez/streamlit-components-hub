@@ -403,11 +403,11 @@
         },
         "importlib-metadata": {
             "hashes": [
-                "sha256:3ebb78df84a805d7698245025b975d9d67053cd94c79245ba4b3eb694abe68bb",
-                "sha256:dbace7892d8c0c4ac1ad096662232f831d4e64f4c4545bd53016a3e9d4654743"
+                "sha256:49fef1ae6440c182052f407c8d34a68f72efc36db9ca90dc0113398f2fdde8bb",
+                "sha256:5a1f80bf1daa489495071efbb095d75a634cf28a8bc299581244063b53176151"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==6.8.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==8.7.1"
         },
         "importlib-resources": {
             "hashes": [
@@ -651,11 +651,12 @@
         },
         "markdown": {
             "hashes": [
-                "sha256:4afb124395ce5fc34e6d9886dab977fd9ae987fc6e85689f08278cf0c69d4bf3",
-                "sha256:a807eb2e4778d9156c8f07876c6e4d50b5494c5665c4834f67b06459dfd877b3"
+                "sha256:46cc0c0f1e5211ab2e9d453582f0b28a1bfaf058a9f7d5c50386b99b588d8811",
+                "sha256:a2e2f01cead4828ee74ecca9623045f62216aef2212a7685d6eb9163f590b8c1"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==3.5"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==3.8.1"
         },
         "markdown-it-py": {
             "hashes": [
@@ -1602,11 +1603,11 @@
         },
         "zipp": {
             "hashes": [
-                "sha256:0e923e726174922dce09c53c59ad483ff7bbb8e572e00c7f7c46b88556409f31",
-                "sha256:84e64a1c28cf7e91ed2078bb8cc8c259cb19b76942096c8d7b84947690cabaf0"
+                "sha256:0b3596c50a5c700c9cb40ba8d86d9f2cc4807e9bedb06bcdf7fac85633e444dc",
+                "sha256:32120e378d32cd9714ad503c1d024619063ec28aad2248dc6672ad13edfa5110"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==3.17.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==3.23.1"
         }
     },
     "develop": {
